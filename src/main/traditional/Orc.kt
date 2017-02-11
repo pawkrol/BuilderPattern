@@ -1,4 +1,4 @@
-package main
+package main.traditional
 
 /**
  * Created by pawkrol on 2/10/17.

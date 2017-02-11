@@ -1,8 +1,8 @@
-package main
+package main.traditional
 
-import main.builders.BlackUruksBuilder
-import main.builders.UrukHaiBuilder
-import main.director.Mordor
+import main.traditional.builders.BlackUruksBuilder
+import main.traditional.builders.UrukHaiBuilder
+import main.traditional.director.Mordor
 
 /**
  * Created by pawkrol on 2/10/17.

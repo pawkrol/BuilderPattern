@@ -1,7 +1,7 @@
-package main.director
+package main.traditional.director
 
-import main.Orc
-import main.builders.OrcBuilder
+import main.traditional.Orc
+import main.traditional.builders.OrcBuilder
 
 /**
  * Created by pawkrol on 2/10/17.

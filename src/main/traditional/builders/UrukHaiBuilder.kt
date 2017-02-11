@@ -1,4 +1,4 @@
-package main.builders
+package main.traditional.builders
 
 /**
  * Created by pawkrol on 2/10/17.
