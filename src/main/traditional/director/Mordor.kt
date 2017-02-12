@@ -14,7 +14,7 @@ class Mordor {
     }
 
     fun getOrc() : Orc? {
-        return orcBuilder?.orc
+        return orcBuilder!!.orc
     }
 
     fun constructOrc(){
